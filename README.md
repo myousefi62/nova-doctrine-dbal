@@ -1,4 +1,4 @@
-# Doctrine based Database Abstraction Layer for Nova Framework
+# Doctrine based DBAL for Nova Framework
 
 To use this Nova Package you should copy the directory **DBAL** into **app/Packages** and to add on your **composer.json** the following:
 
